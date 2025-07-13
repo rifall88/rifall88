@@ -1,4 +1,4 @@
-![Ahmad Rifaldi](img/github-header-image.png)
+![Ahmad Rifaldi](/img/image.png)
 
 ##### My Sklis
 
